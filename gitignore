@@ -1,2 +1,3 @@
 *.pyc
 venv/
+pankoreanbbq/settings.py
